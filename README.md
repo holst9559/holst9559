@@ -3,7 +3,8 @@
 **`System Developer`**
 
 A dedicated brewer looking for my first job in tech. Currently learning Java & Javascript, eager to learn all that I can.
-Check me out -> https://www.linkedin.com/in/anton-holst-bb154624b/
+#
+Find me at -> https://www.linkedin.com/in/anton-holst-bb154624b/
 
 
 
